@@ -23,7 +23,7 @@ export const companyData = {
       name: "The White Horse",
       category: "PUB",
       description: "Premium pub experience with craft beverages, live entertainment, and exceptional hospitality in a vibrant atmosphere.",
-      image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b",
+      image: "/wh123.jpg",
       logo: "https://whitehorsechedgrave.co.uk/wp-content/uploads/2025/03/logo.webp", // Pub logo
       website: "https://whitehorsechedgrave.co.uk/",
       services: ["Craft Beverages", "Live Entertainment", "Premium Dining"],
@@ -35,7 +35,7 @@ export const companyData = {
       name: "Swadisht",
       category: "Indian Restaurant", 
       description: "Authentic Indian cuisine celebrating traditional flavors with modern presentation and exceptional dining experiences.",
-      image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+      image: "/logo222.png",
       logo: "/logo123.png", // Restaurant logo
       website: "https://www.swadisht.co.uk/",
       services: ["Traditional Indian Cuisine", "Fine Dining", "Cultural Experience"],
@@ -47,7 +47,7 @@ export const companyData = {
       name: "Anantya Events",
       category: "Event Management",
       description: "Full-service event management creating memorable experiences for corporate functions, weddings, and special occasions.",
-      image: "https://images.pexels.com/photos/2381069/pexels-photo-2381069.jpeg",
+      image: "/logoa.jpg",
       logo: "/logo134.png", // Events logo
       website: "https://anantya.events/",
       services: ["Corporate Events", "Wedding Planning", "Special Occasions"],
@@ -56,7 +56,7 @@ export const companyData = {
     },
     {
       id: 4,
-      name: "Anantya Catering",
+      name: "Anantya Food",
       category: "Catering Services",
       description: "Premium catering services delivering exceptional culinary experiences for events of all scales and occasions.",
       image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0",
@@ -111,7 +111,7 @@ export const companyData = {
       name: "Dhramin Patel",
       position: "Director",
       description: "Visionary leader guiding strategic direction and operational excellence across all business verticals of Anantya Group.",
-      image: "https://images.unsplash.com/photo-1590496552566-41aca09db352?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzd8MHwxfHNlYXJjaHwyfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHBvcnRyYWl0c3xlbnwwfHx8fDE3NTg4MDc0NDV8MA&ixlib=rb-4.1.0&q=85",
+      image: "/dharmin.png",
       expertise: ["Strategic Leadership", "Business Development", "Operations Management"],
       icon: "Crown"
     },
@@ -120,7 +120,7 @@ export const companyData = {
       name: "Upesh Patel",
       position: "Operations Manager",
       description: "Operational excellence leader ensuring seamless execution and quality standards across all business operations.",
-      image: "https://images.unsplash.com/photo-1659353221237-6a1cfb73fd90?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzd8MHwxfHNlYXJjaHwzfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHBvcnRyYWl0c3xlbnwwfHx8fDE3NTg4MDc0NDV8MA&ixlib=rb-4.1.0&q=85",
+      image: "/upesh.png",
       expertise: ["Operations Management", "Quality Assurance", "Process Optimization"],
       icon: "Settings"
     },
@@ -129,7 +129,7 @@ export const companyData = {
       name: "Yash Korat",
       position: "Sales Executive & Legal Affairs",
       description: "Expert in business development and legal compliance, driving growth strategies and ensuring regulatory excellence.",
-      image: "https://images.unsplash.com/photo-1576558656222-ba66febe3dec?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzh8MHwxfHNlYXJjaHwzfHxidXNpbmVzcyUyMGhlYWRzaG90c3xlbnwwfHx8fDE3NTg4MDc0NTF8MA&ixlib=rb-4.1.0&q=85",
+      image: "/yash.png",
       expertise: ["Business Development", "Legal Compliance", "Strategic Sales"],
       icon: "Scale"
     },
@@ -138,7 +138,7 @@ export const companyData = {
       name: "Chintan Ghodasara",
       position: "HR & Finance Director",
       description: "Strategic leadership in human resources and financial management, fostering organizational growth and financial excellence.",
-      image: "https://images.unsplash.com/photo-1666830070102-0c2f74d2e692?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzh8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGhlYWRzaG90c3xlbnwwfHx8fDE3NTg4MDc0NTF8MA&ixlib=rb-4.1.0&q=85",
+      image: "/Chintan.png",
       expertise: ["Human Resources", "Financial Management", "Strategic Planning"],
       icon: "PiggyBank"
     },
@@ -147,7 +147,7 @@ export const companyData = {
       name: "Kenil Patel",
       position: "Compliance Officer",
       description: "Ensuring regulatory compliance and risk management excellence across all business operations and legal requirements.",
-      image: "https://images.unsplash.com/photo-1609436132311-e4b0c9370469?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzh8MHwxfHNlYXJjaHwyfHxidXNpbmVzcyUyMGhlYWRzaG90c3xlbnwwfHx8fDE3NTg4MDc0NTF8MA&ixlib=rb-4.1.0&q=85",
+      image: "/kenil.png",
       expertise: ["Regulatory Compliance", "Risk Management", "Legal Affairs"],
       icon: "Shield"
     },
