@@ -138,7 +138,7 @@ export const companyData = {
       name: "Chintan Ghodasara",
       position: "HR & Finance Director",
       description: "Strategic leadership in human resources and financial management, fostering organizational growth and financial excellence.",
-      image: "/Chintan.png",
+      image: "/chintan.png",
       expertise: ["Human Resources", "Financial Management", "Strategic Planning"],
       icon: "PiggyBank"
     },
@@ -156,7 +156,7 @@ export const companyData = {
       name: "Shyam Patel",
       position: "Head of Kitchen Operations",
       description: "Culinary excellence leader overseeing food operations, quality standards, and innovative menu development across hospitality ventures.",
-      image: "https://images.pexels.com/photos/8101455/pexels-photo-8101455.jpeg",
+      image: "/shaym.png",
       expertise: ["Culinary Management", "Food Safety", "Menu Development"],
       icon: "ChefHat"
     }
