@@ -617,7 +617,7 @@ const LandingPage = () => {
         
         <div className="text-center">
           <p className="text-gray-500 text-sm">
-            © 2024 Anantya Group. All rights reserved. | Built with excellence and innovation.
+            © 2025 Anantya Group. All rights reserved. | Built with excellence and innovation.
           </p>
         </div>
       </div>
