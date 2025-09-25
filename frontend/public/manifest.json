@@ -1,0 +1,29 @@
+{
+  "short_name": "Anantya Group",
+  "name": "Anantya Group - Leading Excellence Across Industries",
+  "description": "Diversified business conglomerate with 6 companies spanning hospitality, events, catering, trading, and charity sectors.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#E67E22",
+  "background_color": "#0D1117",
+  "orientation": "portrait-primary",
+  "categories": ["business", "corporate", "hospitality"],
+  "lang": "en"
+}
