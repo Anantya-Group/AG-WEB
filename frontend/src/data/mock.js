@@ -24,6 +24,7 @@ export const companyData = {
       category: "PUB",
       description: "Premium pub experience with craft beverages, live entertainment, and exceptional hospitality in a vibrant atmosphere.",
       image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b",
+      logo: "https://images.unsplash.com/photo-1566227003083-99c9784935ed?w=100&h=100&fit=crop&crop=center", // Pub logo
       website: "#",
       services: ["Craft Beverages", "Live Entertainment", "Premium Dining"],
       status: "active",
@@ -32,9 +33,10 @@ export const companyData = {
     {
       id: 2,
       name: "Swadisht",
-      category: "Indian Restaurant",
+      category: "Indian Restaurant", 
       description: "Authentic Indian cuisine celebrating traditional flavors with modern presentation and exceptional dining experiences.",
       image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+      logo: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=100&h=100&fit=crop&crop=center", // Restaurant logo
       website: "#",
       services: ["Traditional Indian Cuisine", "Fine Dining", "Cultural Experience"],
       status: "active",
@@ -46,6 +48,7 @@ export const companyData = {
       category: "Event Management",
       description: "Full-service event management creating memorable experiences for corporate functions, weddings, and special occasions.",
       image: "https://images.pexels.com/photos/2381069/pexels-photo-2381069.jpeg",
+      logo: "https://images.unsplash.com/photo-1511578314322-379afb476865?w=100&h=100&fit=crop&crop=center", // Events logo
       website: "#",
       services: ["Corporate Events", "Wedding Planning", "Special Occasions"],
       status: "active",
@@ -57,6 +60,7 @@ export const companyData = {
       category: "Catering Services",
       description: "Premium catering services delivering exceptional culinary experiences for events of all scales and occasions.",
       image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0",
+      logo: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=100&h=100&fit=crop&crop=center", // Catering logo
       website: "#",
       services: ["Event Catering", "Corporate Lunch", "Special Occasions"],
       status: "active",
@@ -68,6 +72,7 @@ export const companyData = {
       category: "Scrap Metal Import Export",
       description: "Global trading solutions specializing in scrap metal import-export with sustainable practices and reliable partnerships.",
       image: "https://images.unsplash.com/photo-1507679799987-c73779587ccf",
+      logo: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=100&h=100&fit=crop&crop=center", // Trading logo
       website: "#",
       services: ["Metal Trading", "Import Export", "Sustainable Solutions"],
       status: "active",
@@ -79,6 +84,7 @@ export const companyData = {
       category: "Charity",
       description: "Community-focused charitable initiatives creating positive social impact through education, healthcare, and community development.",
       image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2",
+      logo: "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=100&h=100&fit=crop&crop=center", // Charity logo
       website: "#",
       services: ["Community Development", "Education Support", "Healthcare Initiatives"],
       status: "active",
@@ -90,6 +96,7 @@ export const companyData = {
       category: "Technology Solutions",
       description: "Revolutionary technology solutions focusing on digital transformation, AI innovation, and cutting-edge software development.",
       image: "https://images.unsplash.com/photo-1518709268805-4e9042af2176",
+      logo: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=100&h=100&fit=crop&crop=center", // Tech logo
       website: "#",
       services: ["AI Development", "Digital Solutions", "Software Innovation"],
       status: "coming_soon",
@@ -154,20 +161,6 @@ export const companyData = {
       icon: "ChefHat"
     }
   ],
-  
-  // Empty states for future expansion
-  emptyStates: {
-    noProjects: {
-      title: "More Projects Coming Soon",
-      description: "We're constantly expanding our portfolio with innovative ventures across diverse industries.",
-      icon: "Rocket"
-    },
-    noNews: {
-      title: "Stay Tuned for Updates",
-      description: "Follow us on social media to get the latest news about our companies and achievements.",
-      icon: "Newspaper"
-    }
-  },
   
   contact: {
     email: "info@anantyagroup.com",
