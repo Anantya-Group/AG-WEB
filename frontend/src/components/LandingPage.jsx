@@ -126,7 +126,7 @@ const LandingPage = () => {
 
           {/* Mobile Menu Button */}
           <button 
-            className="md:hidden p-2 rounded-md text-white hover:bg-gray-800 transition-colors"
+            className="block md:hidden p-2 rounded-md text-white hover:bg-gray-800 transition-colors z-50 relative"
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             aria-expanded={mobileMenuOpen}
             aria-label="Toggle mobile menu"
